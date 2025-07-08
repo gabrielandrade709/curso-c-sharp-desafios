@@ -1,0 +1,14 @@
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.exe
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.deps.json
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.runtimeconfig.json
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.dll
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\bin\Debug\net8.0\DesafioPratico1.pdb
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.AssemblyInfoInputs.cache
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.AssemblyInfo.cs
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.csproj.CoreCompileInputs.cache
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.dll
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\refint\DesafioPratico1.dll
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.pdb
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\DesafioPratico1.genruntimeconfig.cache
+C:\Curso C# .Net\DesafioPratico1\DesafioPratico1\obj\Debug\net8.0\ref\DesafioPratico1.dll

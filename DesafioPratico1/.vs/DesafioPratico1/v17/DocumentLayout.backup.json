@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso C# .Net\\DesafioPratico1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|c:\\curso c# .net\\desafiopratico1\\desafiopratico1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|solutionrelative:desafiopratico1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|c:\\curso c# .net\\desafiopratico1\\desafiopratico1\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|solutionrelative:desafiopratico1\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|c:\\curso c# .net\\desafiopratico1\\desafiopratico1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|solutionrelative:desafiopratico1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|c:\\curso c# .net\\desafiopratico1\\desafiopratico1\\placa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|solutionrelative:desafiopratico1\\placa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|c:\\curso c# .net\\desafiopratico1\\desafiopratico1\\caracteres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|solutionrelative:desafiopratico1\\caracteres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|c:\\curso c# .net\\desafiopratico1\\desafiopratico1\\concatenarnomesobrenome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|solutionrelative:desafiopratico1\\concatenarnomesobrenome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|c:\\curso c# .net\\desafiopratico1\\desafiopratico1\\boasvindas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075D63F-D3D1-4AB5-866C-0288AB6264AA}|DesafioPratico1\\DesafioPratico1.csproj|solutionrelative:desafiopratico1\\boasvindas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Data.cs",
+              "RelativeDocumentMoniker": "DesafioPratico1\\Data.cs",
+              "ToolTip": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Data.cs*",
+              "RelativeToolTip": "DesafioPratico1\\Data.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:24:58.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Placa.cs",
+              "DocumentMoniker": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Placa.cs",
+              "RelativeDocumentMoniker": "DesafioPratico1\\Placa.cs",
+              "ToolTip": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Placa.cs",
+              "RelativeToolTip": "DesafioPratico1\\Placa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:09:16.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caracteres.cs",
+              "DocumentMoniker": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Caracteres.cs",
+              "RelativeDocumentMoniker": "DesafioPratico1\\Caracteres.cs",
+              "ToolTip": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Caracteres.cs",
+              "RelativeToolTip": "DesafioPratico1\\Caracteres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:00:16.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Operacoes.cs",
+              "RelativeDocumentMoniker": "DesafioPratico1\\Operacoes.cs",
+              "ToolTip": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Operacoes.cs",
+              "RelativeToolTip": "DesafioPratico1\\Operacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:45:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcatenarNomeSobrenome.cs",
+              "DocumentMoniker": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\ConcatenarNomeSobrenome.cs",
+              "RelativeDocumentMoniker": "DesafioPratico1\\ConcatenarNomeSobrenome.cs",
+              "ToolTip": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\ConcatenarNomeSobrenome.cs",
+              "RelativeToolTip": "DesafioPratico1\\ConcatenarNomeSobrenome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:40:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoasVindas.cs",
+              "DocumentMoniker": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\BoasVindas.cs",
+              "RelativeDocumentMoniker": "DesafioPratico1\\BoasVindas.cs",
+              "ToolTip": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\BoasVindas.cs",
+              "RelativeToolTip": "DesafioPratico1\\BoasVindas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:34:59.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioPratico1\\Program.cs",
+              "ToolTip": "C:\\Curso C# .Net\\DesafioPratico1\\DesafioPratico1\\Program.cs",
+              "RelativeToolTip": "DesafioPratico1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:32:09.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
